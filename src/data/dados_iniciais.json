@@ -1,6 +1,5 @@
 {
   "categorias": [
-
     {
       "titulo": "FullStack Web",
       "cor": "deepskyblue",
@@ -14,32 +13,32 @@
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
           "titulo": "Componentização com VanillaJS #AluraMais",
           "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
         },
         {
           "titulo": "Ideias para Portfolios e GitHub",
           "url": "https://www.youtube.com/watch?v=ROeA2H-EQ6w&feature=emb_title"
         },
         {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },
+        {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
           "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
           "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
           "titulo": "Usando Git Direito",
@@ -50,24 +49,19 @@
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
           "titulo": "Flappy Bird",
           "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej"
         },
         {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
-
     {
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#00C86F",
@@ -98,7 +92,6 @@
         }
       ]
     },
-
     {
       "titulo": "Teste e Qualidade de Software",
       "cor": "#9cd33b",
@@ -133,14 +126,13 @@
         }
       ]
     },
-
     {
       "titulo": "Filmes",
       "cor": "darkorange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "BLACK IS KING",
+          "url": "https://www.youtube.com/watch?v=69MO7yU0d70"
         },
         {
           "titulo": "Avengers: Endgame",
@@ -165,10 +157,13 @@
         {
           "titulo": "Ghost in the Shell", 
           "url": "https://www.youtube.com/watch?v=SvBVDibOrgs"
+        },
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         }
       ]
     },
-
     {
       "titulo": "Games",
       "cor": "red",
@@ -211,7 +206,6 @@
         }
       ]
     },
-
     {
       "titulo": "Design", 
       "cor": "#E879DB",
@@ -238,7 +232,6 @@
         }
       ]
     },
-
     {
       "titulo": "Motivação",
       "cor": "#6b5be2",
@@ -297,6 +290,5 @@
         }
       ]
     }
-    
   ]
 } 
